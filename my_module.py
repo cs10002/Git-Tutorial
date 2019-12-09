@@ -8,4 +8,4 @@ def mul(a,b):
   return a*b
   
 def dev(a,b):
-return a//b # 주석ㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎ
+return a//b # 주석ㅎㅎㅎㅎㅎ
